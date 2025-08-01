@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Code Vulnerability Analyzer
+
+A full-stack web application to analyze code files for security vulnerabilities using AI (OpenAI GPT models). Features a hacking-themed, animated React UI.
+
+---
+
+## Features
+
+- Upload code files (`.py`, `.js`, `.java`, `.cpp`, `.c`) on the web interface.
+- Analyze code vulnerability using OpenAI GPT in the backend.
+- Animated hacking-themed UI built with React.
+- Easy to run locally for testing and development.
+
+---
+
+## Project Structure
+
 ## Available Scripts
 
 In the project directory, you can run:
